@@ -12,10 +12,10 @@ Before starting, make sure you have installed:
 
 ## Getting Started
 
-### 1. Clone the Repository
+### Clone the Repository
 Open your terminal and clone the project:
 ```bash
-git clone [https://github.com/your-username/tag-watch.git](https://github.com/your-username/tag-watch.git)
+git clone [https://github.com/Algo-Manas/tag-watch.git](https://github.com/Algo-Manas/tag-watch.git)
 cd tag-watch
 ```
 
@@ -24,3 +24,16 @@ Open terminal and run:
 ```bash
 python -m venv venv
 ```
+
+## Install required packages
+Open terminal and run:
+```bash
+pip install -r requirements.txt
+```
+
+# Learning about the BTS of project
+- Learn HTTPS basics and Scraping. (Is under Docs/HTTPS Basics & Scraping)
+1. Learn [[URL]] then,
+2. Learn [[HTTP]] then,
+3. Learn [[Request]] then,
+4. Learn [[Scraping]]
