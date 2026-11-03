@@ -1,1 +1,0 @@
-Write about Virtual environment and packages in python.
