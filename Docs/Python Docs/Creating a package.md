@@ -22,13 +22,13 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mypackage"
+name = "Packages"
 version = "0.1.0"
 description = "Internal package for core project functionality"
 readme = "README.md"
 requires-python = ">=3.8"
 authors = [
-    { name = "Manas", email = "manasofficial17@gmail.com" }
+    { name = "Anonymous" }
 ]
 dependencies = [
     "requests>=2.28.0",
