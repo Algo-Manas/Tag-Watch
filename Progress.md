@@ -19,3 +19,4 @@
 - Created "Scraping Tools" folder
 - Created [[Scraping]] and added few scripts.
 - Documented [[Curl_Cffi]]
+- Work upto Static Webpage scraping is done (All the script is in [[Scraping]]). 
